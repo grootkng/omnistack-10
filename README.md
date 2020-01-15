@@ -1,1 +1,1 @@
-# Develpment of FinderOfDevelopers - Semana Omnistack
+# Develpment of DevFinder - Semana Omnistack

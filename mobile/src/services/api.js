@@ -1,7 +1,9 @@
 import axios from 'axios';
 
+import { port, androidEmulatorIP, deviceIP } from './utils/ips';
+
 const api = axios.create({
-  baseURL: 'http://192.168.0.107:3333',
+  baseURL: `${ androidEmulatorIP }:${ port }`,
 });
 
 export default api;

@@ -1,4 +1,4 @@
-# Develpment of DevFinder - Semana Omnistack
+# Develpment of DevRadar - Semana Omnistack
 
 > Basic application made with Node.js, React.js and React Native using Expo for run our App.
 
